@@ -1,0 +1,9 @@
+[submodule "deps/am2302"]
+	path = deps/am2302
+	url = git@github.com:CvRXX/AM2302.git
+[submodule "deps/hwlib"]
+	path = deps/hwlib
+	url = git@github.com:CvRXX/hwlib.git
+[submodule "deps/toolchain"]
+	path = deps/toolchain
+	url = git@github.com:CvRXX/toolchain.git
