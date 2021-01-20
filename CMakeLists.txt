@@ -15,6 +15,7 @@ set(CMAKE_CXX_STANDARD 20)
 # Where the toolchain is located on your pc.
 set(toolchain deps/toolchain) # Your path to kvasir_toolchain
 
+
 # The compiler that is used:
 include(${toolchain}/compilers/arm-none-eabi.cmake)
 
